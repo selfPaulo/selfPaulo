@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selfPaulo
-- 👀 I’m interested in Python, IA, machine learning and mobile application.
-- 🌱 I’m currently learning pysimplegui
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile application.
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Android Studio 
 - 📫 How to reach me: by email (pauloricardo.pr573@gmail.com)
 
 <!---
