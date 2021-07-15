@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @selfPaulo
-- 👀 I’m interested in mobile application.
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Studio 
+- 👀 I’m interested in .NET.
+- 🌱 I’m currently learning C# 
 - 📫 How to reach me: by email (pauloricardo.pr573@gmail.com)
 
 <!---
