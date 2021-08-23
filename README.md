@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selfPaulo
-- 👀 I’m interested in .NET.
+- 👀 I’m interested in .NET and .NET Core.
 - 🌱 I’m currently learning C# 
 - 📫 How to reach me: by email (pauloricardo.pr573@gmail.com)
 
