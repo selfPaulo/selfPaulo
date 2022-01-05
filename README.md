@@ -1,6 +1,6 @@
 - Hi, my name is Paulo Ricardo
-- I’m interested in .NET and .NET Core
-- I’m currently learning C# and JavaScript
+- I’m interested in .NET, .NET Core and Yii2
+- I’m currently learning C#, PHP and JavaScript
 - How to reach me: by email (pauloricardo.pr573@gmail.com)
 
 <!---
