@@ -1,6 +1,6 @@
 - Hi, my name is Paulo Ricardo
-- I’m interested in .NET, .NET Core and Yii2
-- I’m currently learning C#, PHP and JavaScript
+- I’m interested in Android Development
+- I’m currently learning Kotlin
 - How to reach me: by email (pauloricardo.pr573@gmail.com)
 
 <!---
